@@ -93,3 +93,23 @@ A collection of common system design questions asked in technical interviews, ca
 60. Design a system like Instagram (posts, comments, likes, scaling)
 
 ---
+
+## 🔗 Blockchain-Oriented System Design
+
+These are commonly asked architecture-level blockchain design questions relevant for Web3 developers, smart contract engineers, and protocol roles.
+
+61. How would you design a scalable NFT marketplace?
+62. Design a system for gasless NFT transfers.
+63. How would you build a multi-chain DeFi dashboard?
+64. Design an on-chain voting system using smart contracts.
+65. How does a blockchain node sync data with the network?
+66. How would you optimize storage using IPFS and blockchain?
+67. Design a decentralized social media protocol.
+68. How would you prevent double-spending in a blockchain dApp?
+69. Design a Layer 2 rollup for faster Ethereum transactions.
+70. How would you implement a decentralized identity (DID) system?
+
+---
+
+
+---
