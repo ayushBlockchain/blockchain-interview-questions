@@ -1,18 +1,19 @@
-# 📘 Blockchain & Web3 Interview Questions
+# ayushBlockchain 🚀
 
-A complete, well-organized list of **interview questions** for blockchain developers, smart contract engineers, DeFi protocol designers, and full-stack Web3 devs.
-
-> ✨ This is your one-stop guide to ace Web3 interviews — from beginner to advanced topics.
+A comprehensive collection of blockchain, Web3, and core computer science resources. This repo is built to help developers, learners, and interviewees sharpen their skills—from Solidity smart contracts to system design and data structures.
 
 ---
 
-## 📂 Table of Contents
+## 📁 Sections Overview
 
-| Section                         | Description                                      |
-|--------------------------------|--------------------------------------------------|
-| [📦 blockchain.md](questions/blockchain.md)             | Basic to advanced blockchain questions          |
-| [🛡 solidity-security.md](questions/solidity-security.md) | 100 smart contract security interview Qs        |
-| [🧰 web3-tools.md](questions/web3-tools.md)             | MetaMask, Hardhat, Foundry, IPFS, etc.          |
-| [🧠 blockchain-theory.md](questions/blockchain-theory.md) | Consensus, L1 vs L2, ERCs, finality, AA         |
-| [💻 dsa.md](questions/dsa.md)                         | Coding/data structures/algorithms questions     |
-| [🧱 cs-core.md](questions/cs-core.md)
+| Section                    | Description                                                   |
+|---------------------------|---------------------------------------------------------------|
+| 📦 **blockchain.md**       | Basic to advanced blockchain questions                        |
+| 🛡 **solidity-security.md** | 100 smart contract security interview questions               |
+| 🧰 **web3-tools.md**        | MetaMask, Hardhat, Foundry, IPFS, and other Web3 tools        |
+| 🧠 **blockchain-theory.md** | Consensus mechanisms, L1 vs L2, ERCs, finality, account abstraction |
+| 💻 **dsa.md**               | Coding, data structures, and algorithmic interview questions   |
+| 🧮 **cs-core.md**           | Computer Science core topics (OS, DBMS, CN, OOPs)             |
+| 🏗 **System-Design.md**     | High-level system design concepts, scalability, and patterns  |
+
+---
